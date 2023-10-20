@@ -1,0 +1,10 @@
+.cabecalho {
+    background-color: #04234b;
+}.botap_cabecalho {
+    display: flex;
+    align-items: center;
+}
+
+.imagem_cabecalho {
+    padding: lem;
+}
